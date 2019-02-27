@@ -7,6 +7,7 @@ If you want to contribute or use it for commercial purposes, you are allowed to 
  * Android Studio 3.3.1 installed
  * npm installed
  * react-native-cli installed
+ * OpenJDK 8.0
  * Phone with Android 9.0
 
 ## How to run in a virtual machine (Android)
